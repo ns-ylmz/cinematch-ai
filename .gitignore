@@ -1,0 +1,15 @@
+# Python virtual environments
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+
+# Javascript Node.js
+frontend/node_modules/
+frontend/dist/
+
+# Database and Local Data
+data/chroma_db/
+data/movies_processed.csv
+
+# IDE and System Files
+.DS_Store
